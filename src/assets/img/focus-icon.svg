@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 89 91" style="enable-background:new 0 0 89 91;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#007FC3;filter: url(#filter);}
+	.st1{fill:#FFFFFF;filter: url(#filter-2);}
+</style>
+<defs>
+  <filter id="filter" x="0" y="0" width="89" height="91" filterUnits="userSpaceOnUse">
+    <feOffset result="offset" dx="0" dy="13.864" in="SourceAlpha"/>
+    <feGaussianBlur result="blur" stdDeviation="3.606"/>
+    <feFlood result="flood" flood-opacity="0.23"/>
+    <feComposite result="composite" operator="in" in2="blur"/>
+    <feBlend result="blend" in="SourceGraphic"/>
+  </filter>
+  <filter id="filter-2" x="0" y="0" width="72" height="62" filterUnits="userSpaceOnUse">
+    <feOffset result="offset" dx="0.707" dy="0.707" in="SourceAlpha"/>
+    <feGaussianBlur result="blur" stdDeviation="1.732"/>
+    <feFlood result="flood" flood-opacity="0.38"/>
+    <feComposite result="composite" operator="in" in2="blur"/>
+    <feBlend result="blend" in="SourceGraphic"/>
+  </filter>
+</defs>
+<circle id="Ellipse_4_copy_3" class="st0" cx="42" cy="32" r="32"/>
+<g>
+	<path class="st1" d="M34.6,32c0-1-0.8-1.9-1.9-1.9H17.9c-1,0-1.9,0.8-1.9,1.9c0,1,0.8,1.9,1.9,1.9h14.9C33.7,33.9,34.6,33,34.6,32z
+		 M27.7,35.7h-3.8c1.4,6.6,6.2,11.9,12.6,13.9v-2.8c0-0.4,0-0.7,0.1-1.1C32.2,44.1,28.9,40.3,27.7,35.7z M36.4,18.2v-3.9
+		c-6.4,2-11.2,7.3-12.6,13.9h3.8C28.8,23.7,32.1,20,36.4,18.2z M56.3,28.3h3.8c-1.4-6.6-6.2-11.9-12.6-13.9v3.9
+		C51.9,20,55.2,23.7,56.3,28.3z M66.1,30.1H51.3c-1,0-1.9,0.8-1.9,1.9c0,1,0.8,1.9,1.9,1.9h14.9c1,0,1.9-0.8,1.9-1.9
+		C68,31,67.2,30.1,66.1,30.1z M47.5,45.8c0.1,0.4,0.1,0.7,0.1,1.1v2.8c6.4-2,11.2-7.3,12.6-13.9h-3.8C55.2,40.3,51.8,44.1,47.5,45.8
+		z M42,6c-1,0-1.9,0.8-1.9,1.9v14.9c0,1,0.8,1.9,1.9,1.9s1.9-0.8,1.9-1.9V7.9C43.9,6.8,43,6,42,6z M42,39.4c-1,0-1.9,0.8-1.9,1.9
+		v14.9c0,1,0.8,1.9,1.9,1.9s1.9-0.8,1.9-1.9V41.3C43.9,40.3,43,39.4,42,39.4z"/>
+</g>
+</svg>
