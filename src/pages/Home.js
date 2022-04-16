@@ -15,10 +15,10 @@ const Home = () => {
         <News/>
         <Global/>
         <Focus/>
-        <Mission/>
-        <Impact/>
-        <WorldWide/>
-        <Partners/>
+        {/* <Mission/>
+        <Impact/> */}
+        {/* <WorldWide/>
+        <Partners/> */}
     </>
   )
 }

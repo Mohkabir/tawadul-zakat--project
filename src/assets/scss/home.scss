@@ -470,6 +470,7 @@ footer {
                 max-width: 45%;
             }
             .footer-logo {
+                max-width: 100%;
                 display: none;
             }
             ul {
@@ -704,6 +705,10 @@ footer {
                 }
                 .footer-logo {
                     display: block;
+                    img{
+                        max-width: 100%;
+                        width: 100px;
+                    }
                 }
             }
         }
