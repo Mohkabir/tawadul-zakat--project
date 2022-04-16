@@ -41,7 +41,6 @@ const AppRoutes = (props) => {
             </AppLayout>
           }
         />
-
         <Route
           path="/zakat-calculator"
           element={
