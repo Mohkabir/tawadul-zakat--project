@@ -1,0 +1,16 @@
+name: first action
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: say hello
+    - run: echo "Hello world"
+    - name: check node versiobn
+    - run: node -v
